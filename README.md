@@ -14,7 +14,7 @@ public class Liheng {
     String[] currentFocus = {"Distributed Systems", "Networking", "Operating Systems"};
     String[] languages = {"Java", "Python", "JavaScript", "C/C++"};
     String[] interests = {"Full-Stack Development", "Systems Programming"};
-    String funFact = "Apple pie is my least favorite desert.";
+    String funFact = "Apple pie is my least favorite dessert.";
 }
 ```
 
