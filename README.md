@@ -24,7 +24,7 @@ const liheng = {
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andy2887&show_icons=true&theme=algolia&count_private=true&hide=stars&hide_rank=true&include_all_commits=true)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andy2887&theme=algolia&show_icons=true&layout=compact)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andy2887&theme=algolia&show_icons=true)
   
 </div>
 
