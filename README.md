@@ -8,14 +8,14 @@
 
 ## 🚀 About Me
 
-```typescript
-const liheng = {
-    school: "Northwestern University",
-    currentFocus: ["Distributed Systems", "Networking", "Operating Systems"],
-    languages: ["Java", "Python", "JavaScript", "TypeScript", "C/C++"],
-    interests: ["Full-Stack Development", "Systems Programming"],
-    funFact: "I have perfect pitch."
-};
+```java
+public class Liheng {
+    String school = "Northwestern University";
+    String[] currentFocus = {"Distributed Systems", "Networking", "Operating Systems"};
+    String[] languages = {"Java", "Python", "JavaScript", "C/C++"};
+    String[] interests = {"Full-Stack Development", "Systems Programming"};
+    String funFact = "I have perfect pitch.";
+}
 ```
 
 ## 📊 GitHub Analytics
