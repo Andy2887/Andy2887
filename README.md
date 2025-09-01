@@ -22,11 +22,9 @@ const liheng = {
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andy2887&show_icons=true&theme=algolia&hide_border=true&count_private=true&hide=stars&hide_rank=true&include_all_commits=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andy2887&show_icons=true&theme=algolia&count_private=true&hide=stars&hide_rank=true&include_all_commits=true)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andy2887&theme=algolia&show_icons=true&hide_border=true&layout=donut)
-
-  <!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Andy2887&theme=react-dark&hide_border=true) -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andy2887&theme=algolia&show_icons=true&layout=compact)
   
 </div>
 
