@@ -1,6 +1,47 @@
-## Hi there, I'm Liheng!👋
+# 👋 Hey there, I'm Liheng!
 
-- 🔭 I’m a Computer Science major @ **Northwestern University**.
-- 🌱 I’m currently learning distributed systems, networking and operating systems.
-- 🛠️ I'm proficient in using Java, Python, JavaScript, TypeScript, C/C++.
-- 💡 I'm interested in full-stack development and systems programming.
+<div align="left">
+  
+  **🎓 Computer Science @ Northwestern University**
+  
+</div>
+
+## 🚀 About Me
+
+```typescript
+const liheng = {
+    school: "Northwestern University",
+    currentFocus: ["Distributed Systems", "Networking", "Operating Systems"],
+    languages: ["Java", "Python", "JavaScript", "TypeScript", "C/C++"],
+    interests: ["Full-Stack Development", "Systems Programming"],
+    funFact: "I have perfect pitch."
+};
+```
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andy2887&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andy2887&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
+  <!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Andy2887&theme=react-dark&hide_border=true) -->
+  
+</div>
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+  **Always excited to collaborate on innovative projects!** 🚀
+  
+  📫 **Reach out**: [lihengyuan2027@u.northwestern.edu](mailto:lihengyuan2027@u.northwestern.edu)
+  
+  💼 **LinkedIn**: [linkedin.com/in/liheng-yuan](https://www.linkedin.com/in/liheng-yuan/)
+  
+  ---
+  
+  ⭐ **If you find my work interesting, consider giving it a star!** ⭐
+  
+</div>
