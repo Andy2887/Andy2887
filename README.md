@@ -22,7 +22,7 @@ const liheng = {
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andy2887&theme=radical&show_icons=true&hide_border=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andy2887&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=stars)
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andy2887&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
@@ -30,15 +30,7 @@ const liheng = {
   
 </div>
 
-## 🤝 Let's Connect!
-
 <div align="center">
-  
-  **Always excited to collaborate on innovative projects!** 🚀
-  
-  📫 **Reach out**: [lihengyuan2027@u.northwestern.edu](mailto:lihengyuan2027@u.northwestern.edu)
-  
-  💼 **LinkedIn**: [linkedin.com/in/liheng-yuan](https://www.linkedin.com/in/liheng-yuan/)
   
   ---
   
