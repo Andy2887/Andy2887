@@ -1,8 +1,8 @@
 # 👋 Hey there, I'm Liheng!
 
 <div align="left">
-  
-  **🎓 Computer Science @ Northwestern University**
+
+  **🎓 CS @ Northwestern University**
   
 </div>
 
