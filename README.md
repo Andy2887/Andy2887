@@ -1,8 +1,6 @@
 # 👋 Hey there, I'm Liheng!
 
 <div align="left">
-
-  **💼 Incoming SWE Intern @ IBM**
   
   **🎓 CS @ Northwestern University**
   
