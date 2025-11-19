@@ -13,9 +13,8 @@
 ```java
 public class Liheng {
     String school = "Northwestern University";
-    String[] currentFocus = {"Distributed Systems", "Networking", "Operating Systems"};
-    String[] languages = {"Java", "Python", "JavaScript", "C/C++"};
-    String[] interests = {"Full-Stack Development", "Systems Programming"};
+    String[] currentFocus = {"Systems Programming"};
+    String[] languages = {"C/C++", "Python", "JavaScript"};
     String funFact = "Peach is my favorite fruit.";
 }
 ```
