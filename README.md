@@ -2,6 +2,8 @@
 
 <div align="left">
   
+  **💼 Incoming SWE Intern @ IBM**
+  
   **🎓 CS @ Northwestern University**
   
 </div>
