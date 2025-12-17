@@ -14,7 +14,7 @@
 public class Liheng {
     String school = "Northwestern University";
     String[] currentFocus = {"Systems Programming"};
-    String[] languages = {"C/C++", "Python", "JavaScript"};
+    String[] languages = {"C/C++", "Rust", "Java"};
     String funFact = "Peach is my favorite fruit.";
 }
 ```
