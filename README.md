@@ -10,24 +10,29 @@
 
 ## 🚀 About Me
 
-```java
-public class Liheng {
-    String school = "Northwestern University";
-    String[] currentFocus = {"Systems Programming"};
-    String[] languages = {"C/C++", "Rust", "Java"};
-    String funFact = "Peach is my favorite fruit.";
+```rust
+struct Liheng {
+    school: String,
+    current_focus: Vec<String>,
+    languages: Vec<String>,
+    fun_fact: String,
+}
+
+impl Liheng {
+    fn new() -> Self {
+        Self {
+            school: String::from("Northwestern University"),
+            current_focus: vec![String::from("Systems Programming")],
+            languages: vec![
+                String::from("C/C++"),
+                String::from("Rust"),
+                String::from("Python"),
+            ],
+            fun_fact: String::from("Peach is my favorite fruit."),
+        }
+    }
 }
 ```
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andy2887&show_icons=true&theme=algolia&count_private=true&hide=stars&hide_rank=true&include_all_commits=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andy2887&theme=algolia&show_icons=true)
-  
-</div>
 
 <div align="center">
   
