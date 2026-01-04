@@ -28,7 +28,7 @@ impl Liheng {
                 String::from("Rust"),
                 String::from("Python"),
             ],
-            fun_fact: String::from("Peach is my favorite fruit."),
+            fun_fact: String::from("Python is my favorite programming language."),
         }
     }
 }
