@@ -22,7 +22,7 @@ impl Liheng {
     fn new() -> Self {
         Self {
             school: String::from("Northwestern University"),
-            current_focus: vec![String::from("Systems Programming")],
+            current_focus: vec![String::from("Databases")],
             languages: vec![
                 String::from("C/C++"),
                 String::from("Rust"),
