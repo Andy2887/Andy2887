@@ -1,13 +1,5 @@
 # 👋 Hey there, I'm Liheng!
 
-<div align="left">
-  
-  **💼 Incoming SWE Intern @ IBM**
-  
-  **🎓 CS @ Northwestern University**
-  
-</div>
-
 ## 🚀 About Me
 
 ```rust
@@ -21,7 +13,6 @@ struct Liheng {
 impl Liheng {
     fn new() -> Self {
         Self {
-            school: String::from("Northwestern University"),
             current_focus: vec![String::from("AI Infrastructure")],
             languages: vec![
                 String::from("C/C++"),
