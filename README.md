@@ -13,9 +13,9 @@ struct Liheng {
 impl Liheng {
     fn new() -> Self {
         Self {
-            company: vec![String::from("IBM")],
-            school: vec![String::from("Northwestern University")],
-            current_focus: vec![String::from("AI Infrastructure")],
+            company: String::from("IBM"),
+            school: String::from("Northwestern University"),
+            current_focus: String::from("AI Infrastructure"),
             fun_fact: String::from("I prefer Rust over C/C++."),
         }
     }
