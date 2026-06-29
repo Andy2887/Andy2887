@@ -4,8 +4,6 @@
 
 ```rust
 struct Liheng {
-    company: String,
-    school: String,
     current_focus: Vec<String>,
     fun_fact: String,
 }
@@ -13,9 +11,11 @@ struct Liheng {
 impl Liheng {
     fn new() -> Self {
         Self {
-            company: String::from("IBM"),
-            school: String::from("Northwestern University"),
-            current_focus: String::from("AI Infrastructure"),
+            current_focus: vec![
+                String::from("AI Training Tools"),
+                String::from("GPU Programming"),
+                String::from("Open Source Contribution"),
+            ],
             fun_fact: String::from("I prefer Rust over C/C++."),
         }
     }
